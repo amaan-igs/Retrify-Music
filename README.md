@@ -16,3 +16,20 @@ Retrify-Music is a web-based music player application.
 2. Navigate to the project directory:
    ```sh
    cd Retrify-Music
+   
+## Usage
+Open `index.html` in your web browser to use the music player.
+
+## Project Structure
+- `index.html` - Main HTML file
+- `style.css` - Styling for the application
+- `script.js` - JavaScript for functionality
+- `songs/` - Directory containing music files
+- `covers/` - Directory containing cover images
+
+## Contributing
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a pull request
