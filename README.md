@@ -31,5 +31,8 @@ Open `index.html` in your web browser to use the music player.
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
 3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
+
+![image](https://github.com/amaan-igs/Retrify-Music/assets/172314900/238c08e0-918a-4a12-bb79-f47253181ef6)
+
+5. Push to the branch (`git push origin feature-branch`)
+6. Open a pull request
