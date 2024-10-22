@@ -10,10 +10,10 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Aap Ki Ankho Mein Kuch [Kishore Kumar Release]", filePath: "songs/1.mp3", coverPath: "covers/12.jpg"},
+    {songName: "Aap Ki Ankho Mein Kuch [Kishore Kumar]", filePath: "songs/1.mp3", coverPath: "covers/12.jpg"},
     {songName: "Abhi Na Jaao Chhod Kar [Md.Rafi - Asha Bhosle]", filePath: "songs/2.mp3", coverPath: "covers/14.jpg"},
     {songName: "Ajeeb Dastan Hai Yeh [Lata Mangeshkar]", filePath: "songs/3.mp3", coverPath: "covers/13.jpg"},
-    {songName: "Chookar Mere Mann Ko [Kishore Kumar Release]", filePath: "songs/4.mp3", coverPath: "covers/12.jpg"},
+    {songName: "Chookar Mere Mann Ko [Kishore Kumar]", filePath: "songs/4.mp3", coverPath: "covers/12.jpg"},
     {songName: "Hothon Se Chhu Lo Tum [Jagjit Singh]", filePath: "songs/5.mp3", coverPath: "covers/11.jpg"},
     {songName: "Kabhi Kabhi Mere Dil Mein [Lata & Mukesh]", filePath: "songs/6.mp3", coverPath: "covers/13.jpg"},
     {songName: "Lag Jaa Gale [Lata Mangeshkar]", filePath: "songs/7.mp3", coverPath: "covers/13.jpg"},
